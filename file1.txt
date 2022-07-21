@@ -3,3 +3,4 @@ apples =fruit
 tomatoes =fruit
 apples =oranges
 tomatoes=good
+Push=yes
