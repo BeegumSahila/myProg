@@ -1,0 +1,4 @@
+C this is my first program
+apples =fruit
+tomatoes =fruit
+apples =oranges
